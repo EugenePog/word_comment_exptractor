@@ -7,8 +7,8 @@ Created on Fri Feb 24 21:39:25 2023
 
 import streamlit as st
 from read_file import get_comments_from_file 
-import pandas as pd 
-import csv
+#import pandas as pd 
+#import csv
 
 def convert_result(result_to_convert):
     # using csv.writer method from CSV package

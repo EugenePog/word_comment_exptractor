@@ -1,0 +1,4 @@
+version: '3'
+services:
+    my-python-app:
+        image: word_comment_exptractor:0.1
