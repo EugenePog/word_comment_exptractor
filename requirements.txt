@@ -1,3 +1,2 @@
 streamlit
-docx
-exceptions
+python-docx

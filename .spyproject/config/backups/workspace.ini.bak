@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['app/front_page.py', 'Dockerfile', 'word_comment_exptractor_compose.yaml', 'requirements.txt']
+recent_files = ['app/front_page.py']
 
 [main]
 version = 0.2.0
